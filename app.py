@@ -1,6 +1,5 @@
 import streamlit as st
 from multiapp import MultiApp
-import st_tailwind as tw
 
 import calculator
 import bmi
